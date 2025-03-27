@@ -1,0 +1,14 @@
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\bin\Debug\net8.0\jogo_da_forca-Academia_Programador.exe
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\bin\Debug\net8.0\jogo_da_forca-Academia_Programador.deps.json
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\bin\Debug\net8.0\jogo_da_forca-Academia_Programador.runtimeconfig.json
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\bin\Debug\net8.0\jogo_da_forca-Academia_Programador.dll
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\bin\Debug\net8.0\jogo_da_forca-Academia_Programador.pdb
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.dll
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\refint\jogo_da_forca-Academia_Programador.dll
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.pdb
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\jogo_da_forca-Academia_Programador.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\jogo_da_forca-Academia_Programador\obj\Debug\net8.0\ref\jogo_da_forca-Academia_Programador.dll
